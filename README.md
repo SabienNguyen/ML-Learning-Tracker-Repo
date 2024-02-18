@@ -7,6 +7,11 @@
 ## Youtube Resources
 
 ## Certifications
+- [Machine Learning Specialization by Stanford on Coursera](https://coursera.org/share/81696f6e2c3b9800de199e344600f73e)
+  - Supervised Machine Learning: Regression and Classification
+  - Advanced Learning Algorithms
+  - Unsupervised Learning, Recommenders, Reinforcement Learning
+
 ## Books
 
 
