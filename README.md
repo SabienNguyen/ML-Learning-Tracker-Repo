@@ -19,5 +19,6 @@
   - Unsupervised Learning, Recommenders, Reinforcement Learning
 
 ## Books
-
+## things to do for repo
+- create a readme for each project and do more research on the things i used on a project and also explain the project in further depth, this will allow me to get a deeper understanding of everything i write
 
